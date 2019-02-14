@@ -1,0 +1,7 @@
+[agreement]
+prime = 1001
+primitiveroot = 22
+
+[pubkey]
+sender = 232
+recipient = 212
